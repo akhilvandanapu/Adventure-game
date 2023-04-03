@@ -26,7 +26,7 @@ def move(game_map, game_state, direction):
         exits = current_room['exits']
         exit_str = " ".join(exits)
         if 'items' in current_room:
-            print('Items: ', ','.join(current_room['items'])+'\n')
+            print('Items: '+ ','.join(current_room['items'])+'\n')
         print(f"Exits: {exit_str}"+'\n')
     else:
         print("There's no way to go",direction,end='.\n')
