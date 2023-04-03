@@ -1,6 +1,6 @@
 Name : Akhil Vandanapu
 Stevens login ID: avandana
-GitHub Repo: https://github.com/akhilvandanapu/Adventure-game
+GitHub Repo: https://github.com/akhilvandanapu/Adventure-game.git
 Hours worked on project : 15
 
 Testing the code:
