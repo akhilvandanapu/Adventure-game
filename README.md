@@ -55,7 +55,7 @@ if you don't have any it will show like "You're not carrying anything."
 use the "quit" to end the program.
 
 
-Bugs and Issues: No
+Bugs and Issues: In drop extension i can only drop the rose in green room but not in any other room, because i couldn't add items dictionary to other rooms.
 
 Difficult issue or bug I resolved:
 
@@ -70,12 +70,7 @@ Extensions:
 As mentioned in the project this verb will drop the items which you already have.
 In my map I have a rose in red room.
 You can go to red room from white room(starting room) by choosing east exit.
+you can pick the rose from that room and drop it any other room.
 
 
-2)Locked Doors:
-
-
-
-
-3)Winning and Losing conditions :
 
